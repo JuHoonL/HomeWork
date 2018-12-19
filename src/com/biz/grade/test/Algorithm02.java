@@ -21,10 +21,10 @@ public class Algorithm02 {
 				System.out.println(mW + "는 평년입니다.");
 				return;
 			}
-			System.out.println(mW + "는 태양력의 윤년입니다.");
+			System.out.println(mW + "는 윤년입니다.");
 			return;
 		}
-		System.out.println(mW + "는 태양력의 평년입니다(윤년이 아닙니다).");
+		System.out.println(mW + "는 평년입니다(윤년이 아닙니다).");
 	}
 
 }
